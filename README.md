@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hii 👋 I'm Heena
 
-<!--
-**2421196csecec-hue/2421196csecec-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 Currently pursuing B.Tech in Computer Science & Engineering  
+- 🌱 Currently exploring *Cybersecurity, **Machine Learning, and **Quantum Computing*  
+- 💻 Skilled in *C++, HTML, C  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+https://www.linkedin.com/in/heena-batra-35a8bb346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://github.com/Heena-12345
+---
+
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+---
+
+## 📂 Projects & Repositories:
+- 🔐 *Bitcoin Illegal Usage Detection* – Data analysis of Bitcoin transactions to identify illegal activities.  
+- 🤖 *Deepfake Detection using Machine Learning* – Research-based project on detecting fake media.  
+- 🌐 *Web Portfolio* – A personal portfolio built with HTML, CSS, and JavaScript.  
+
+👉 Check out my repositories here: [My GitHub Repos]https://github.com/Heena-12345
+---
+
+ta&theme=dark&hide_border=false&layout=compact)
