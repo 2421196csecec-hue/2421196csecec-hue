@@ -8,8 +8,8 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn]](https://www.linkedin.com/in/heena-batra-35a8bb346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-[![Github]](https://github.com/2421196csecec-hue) 
+[![LinkedIn](https://www.linkedin.com/in/heena-batra-35a8bb346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Github](https://github.com/2421196csecec-hue) 
 ---
 
 ## 💻 Tech Stack:
