@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 https://www.linkedin.com/in/heena-batra-35a8bb346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-https://github.com/Heena-12345
+
 ---
 
 ## 💻 Tech Stack:
