@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 https://www.linkedin.com/in/heena-batra-35a8bb346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+https://github.com/2421196csecec-hue
 ---
 
 ## 💻 Tech Stack:
@@ -22,7 +22,7 @@ https://www.linkedin.com/in/heena-batra-35a8bb346?utm_source=share&utm_campaign=
 - 🤖 *Deepfake Detection using Machine Learning* – Research-based project on detecting fake media.  
 - 🌐 *Web Portfolio* – A personal portfolio built with HTML, CSS, and JavaScript.  
 
-👉 Check out my repositories here: [My GitHub Repos]https://github.com/Heena-12345
+👉 Check out my repositories here: [My GitHubRepos](https://github.com/2421196csecec-hue) 
 ---
 
 ta&theme=dark&hide_border=false&layout=compact)
